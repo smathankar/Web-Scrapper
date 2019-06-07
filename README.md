@@ -1,2 +1,2 @@
 # Web-Scrapper
-I used beautiful soup selenium web driver with python for scrapper programs.
+I used beautiful soup and selenium web driver with python 3 for scrapper programs.
